@@ -1,0 +1,8 @@
+pandas
+numpy
+ccxt
+yfinance
+ta
+backtrader
+pyyaml
+matplotlib
